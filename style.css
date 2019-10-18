@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: salmon; 
+    font-family: 'Roboto' , sans-serif;
+}
+div {
+    display: flex;
+    justify-content: center;
+    padding-top: 7em;
+}
+form {
+    background-color: #e7f2f8;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: inherit;
+    padding: 40px 140px;
+    box-shadow: 0 0 10px 2px grey;
+}
+form h1 {
+    font-size: 3em;
+    margin-block-end: 0;
+}
+form h2 {
+    text-align: center;
+    color:;
+    font-size: 1.2em;
+    font-family: cursive;
+}
+#email-input {
+
+}
+#pass-input {
+    
+}
+button {
+    background-color: #74bdcd;
+    margin-top: 10px;
+}
